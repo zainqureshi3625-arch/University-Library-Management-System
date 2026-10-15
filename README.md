@@ -1,64 +1,37 @@
-University Library Management System
+# University Library Management System
 
-1. Introduction
+## 1. Introduction
+The University Library Management System is a software project designed to manage library activities at a university. It will help the librarian manage books, search for books, issue books to students, and record returned books.
 
-This project is about making a system for a university library. It will help manage books, students, and library work.
+## 2. Project Objectives
+- To manage library book records.
+- To search for available books.
+- To record book issuing and returning.
+- To maintain student borrowing records.
+- To make library work easier and more organized.
 
-2. Project Objectives
+## 3. Planned Features
+- Add and manage books.
+- Search for books.
+- Manage student records.
+- Issue books to students.
+- Record returned books.
+- Maintain borrowing records.
 
-- To keep records of books.
-- To save student and librarian information.
-- To help students find books easily.
-- To record issued and returned books.
-- To allow students to reserve books.
-- To identify late book returns.
+## 4. Team Members
+- **Group Leader:** Zain Ul Abideen Qureshi
+- **Team Member 2:** Arbaz Khan
+- **Team Member 3:** Siam Ghani
 
-3. Project Scope
+## 5. Project Tools
+- GitHub — for storing project files and team collaboration.
+- diagrams.net — for creating project diagrams.
+- Figma — for designing sample user-interface screens.
+- Google Docs or LibreOffice Writer — for project documentation.
+- Google Sheets or LibreOffice Calc — for project planning and scheduling.
 
-This system will help librarians manage books and student records. Students will be able to search for books and check their availability. The system will also help manage book reservations and late returns.
+## 6. Project Plan
+The team will prepare project requirements, diagrams, a user-interface prototype, a Work Breakdown Structure (WBS), a Gantt Chart, and a risk-management plan.
 
-We will prepare the project documents, diagrams, and a design of the system. We will not build the complete software.
-
-4. Assumptions
-
-- Students and librarians will use the system.
-- Book information will be entered correctly.
-- Users will know how to use a computer.
-
-5. Constraints
-
-- The project must be completed on time.
-- A computer and suitable software are needed.
-- Only authorized users can manage library records.
-
-6. Team Members
-
-1. Zain Ul Abideen Qureshi — 25MDSE019
-2. Arbaz Khan — 25MDSE007
-3. Siam Ghani — 25MDSE029
-
-7. Tools
-
-- GitHub for saving and sharing project files.
-- Google Docs for writing documents.
-- diagrams.net for making diagrams.
-- Figma for designing the system screens.
-
-8. Project Work
-
-- Project planning
-- Requirements and SRS document
-- UML diagrams
-- System screen design
-- Final project report
-
-9. Project Status
-
-Our project is currently in the planning stage.
-
-10. Folders
-
-- requirements: Requirements and SRS files.
-- diagrams: Project diagrams.
-- ui-prototype: System screen designs.
-- reports: Project reports.
+## 7. Project Status
+Currently, the team is working on Assignment 1: Project Planning and Documentation.
