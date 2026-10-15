@@ -19,7 +19,7 @@ The University Library Management System is a software project designed to manag
 - Maintain borrowing records.
 
 ## 4. Team Members
-- **Group Leader:** Zain Ul Abideen Qureshi
+- **Team Member 1:** Zain-Ul-Abideen Qureshi
 - **Team Member 2:** Arbaz Khan
 - **Team Member 3:** Siam Ghani
 
