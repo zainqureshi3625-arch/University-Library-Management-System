@@ -7,7 +7,6 @@ University Library Management System
 - **Total Tasks:** 31
 - **Estimated Project Effort:** 88 Hours
 - **Project Duration:** 14 October 2026 – 8 December 2026
-- **Teacher's Deadline for the Planning Work:** 12 November 2026
 
 ---
 
